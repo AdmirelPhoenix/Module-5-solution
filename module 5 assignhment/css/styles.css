@@ -1,0 +1,60 @@
+body{
+  background-color: bisque;
+}
+
+#top-margin-thinge  {
+  background-color: cyan;
+  height: 150px;
+}
+
+#name-of-brand  {
+  color: maroon;
+  font-size: 50 px;
+  float: left;
+  clear: inherit;
+}
+
+#info-sighn {
+  font-size: 60px;
+}
+
+#spoon-sighn {
+  font-size: 60px;
+}
+
+#star-sighn {
+  font-size: 60px;
+}
+
+a:hover, a:active {
+  color: maroon;
+}
+
+#mobile-no  {
+  text-align: center;
+}
+
+#down-margin-thinge   {
+  background-color: maroon;
+}
+
+#comments {
+  color: gold;
+}
+
+#location {
+  color: gold;
+}
+
+#rights {
+  color: gold;
+}
+
+#time {
+  color: gold;
+}
+
+#down-margin-thinge {
+  margin-top: 300px;
+  float: initial;
+}
